@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: #343434;
+}
+
+.label {
+    -fx-text-fill: #fefefe;
+}
+
+.beat-button,
+.beat-button:focused {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;    
+}
+
+.beat-button:selected,
+.beat-button:selected:focused {
+    -fx-background-color: darkseagreen;
+    -fx-text-fill: black;    
+}
+
+.start-button {
+    -fx-background-radius: 5em;
+    -fx-padding: 10px;
+}

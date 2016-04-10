@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="23" Y="10"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uos/uos_flat.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="10" Y="79"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="libs/uos/uos_flat.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1040"/>
+        <CursorPos Y="1071"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="libs/uos/uos.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1118"/>
+        <CursorPos X="24" Y="4092"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/fpc/src/rtl/inc/threadh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="143"/>
+        <CursorPos X="11" Y="173"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/lib/fpc/src/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1613"/>
+        <CursorPos X="30" Y="1643"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib/fpc/src/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="175"/>
+        <CursorPos X="23" Y="193"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="libs/uos/src/uos_flat.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="454"/>
+        <CursorPos X="59" Y="474"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <Caret Line="10" Column="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="13" Column="74"/>
+      </Position2>
+      <Position3>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="26"/>
+      </Position3>
+      <Position4>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="27"/>
+      </Position4>
+      <Position5>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="28"/>
+      </Position5>
+      <Position6>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="30"/>
+      </Position6>
+      <Position7>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="27" Column="24"/>
+      </Position7>
+      <Position8>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="26"/>
+      </Position8>
+      <Position9>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="27"/>
+      </Position9>
+      <Position10>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="28"/>
+      </Position10>
+      <Position11>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="30"/>
+      </Position11>
+      <Position12>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="31"/>
+      </Position12>
+      <Position13>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <Caret Line="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="36" TopLine="5"/>
+      </Position14>
+      <Position15>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="37" TopLine="6"/>
+      </Position15>
+      <Position16>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="38" TopLine="7"/>
+      </Position16>
+      <Position17>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="39" TopLine="8"/>
+      </Position17>
+      <Position18>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="40" TopLine="9"/>
+      </Position18>
+      <Position19>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="41" TopLine="10"/>
+      </Position19>
+      <Position20>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <Caret Line="10"/>
+      </Position20>
+      <Position21>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <Caret Line="11"/>
+      </Position21>
+      <Position22>
+        <Filename Value="SoundLibraryTest.lpr"/>
+        <Caret Line="13" Column="14"/>
+      </Position22>
+      <Position23>
+        <Filename Value="SoundLibraryUnit.pas"/>
+        <Caret Line="15" Column="50" TopLine="12"/>
+      </Position23>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
